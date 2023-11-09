@@ -1,0 +1,1 @@
+# majdicalc
